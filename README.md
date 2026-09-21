@@ -352,8 +352,6 @@ and execute the notebook cells sequentially.
 
 **Jayesh Sharma**
 
-docs: add complete project documentation
-
 Data Analytics | Data Science & Machine Learning | Generative AI
 
 If you found this project useful, feel free to ⭐ the repository.
